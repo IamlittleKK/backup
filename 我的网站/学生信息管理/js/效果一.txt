@@ -1,0 +1,7 @@
+添加如下两句调用相应js文件
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="./js/show.js"></script>
+
+添加一个canvas标签，id为"mycanvas"
+
+<canvas id="mycanvas"></canvas>

@@ -1,0 +1,66 @@
+body{
+
+		margin: 0;
+	    overflow: hidden;
+	    background:#b6d7a8;
+        font-weight:bold;
+        text-shadow:1px 1px 0 #b6d7a8,2px 2px 4px black;
+		color:4a0e4d;
+	
+	}
+	
+#container{
+	        border:;
+            height:90vh;
+			width:100%;
+			background-color:;
+			
+			position:absolute;
+
+			           
+        }
+#form1{
+	        border:;
+			height:80vh;
+			width:100%;
+			background-color:;
+			
+
+      }
+	  
+#layout{
+            width:50%;
+            border:;
+            margin:0 auto;
+        }
+		
+ .colum_1 {
+            text-align:right;
+            width:50%;
+        }
+.colum_2 {
+            text-align:left;
+            width:50%;
+        }
+	  
+.textbox {
+                width:80px;
+                height:13px;
+				
+				background-color:#b6d7a8;
+                border-style:groove;	
+				border-radius:5px;
+        }
+		
+.button{
+	background-color:#b6d7a8;
+	border-style:outset;
+	border-radius:5px;
+}
+
+.dropdownlist{
+	width:85px;
+	height:23px;
+	background-color:#b6d7a8;
+	border-style:groove;
+}
